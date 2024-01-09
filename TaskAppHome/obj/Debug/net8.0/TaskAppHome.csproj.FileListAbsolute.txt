@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\bin\Debug\net8.0\TaskAppHome.exe
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\bin\Debug\net8.0\TaskAppHome.deps.json
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\bin\Debug\net8.0\TaskAppHome.runtimeconfig.json
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\bin\Debug\net8.0\TaskAppHome.dll
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\bin\Debug\net8.0\TaskAppHome.pdb
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\TaskAppHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\TaskAppHome.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\TaskAppHome.AssemblyInfo.cs
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\TaskAppHome.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\TaskAppHome.dll
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\refint\TaskAppHome.dll
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\TaskAppHome.pdb
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\TaskAppHome.genruntimeconfig.cache
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\ref\TaskAppHome.dll
