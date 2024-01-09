@@ -12,3 +12,4 @@ C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\refint\TaskA
 C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\TaskAppHome.pdb
 C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\TaskAppHome.genruntimeconfig.cache
 C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\ref\TaskAppHome.dll
+C:\Users\user\source\repos\TaskAppHome\TaskAppHome\obj\Debug\net8.0\TaskAppHome.sourcelink.json
